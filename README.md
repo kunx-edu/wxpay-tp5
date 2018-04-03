@@ -1,4 +1,4 @@
-基于thinkphp5的微信扫码支付sdk
+﻿基于thinkphp5的微信扫码支付sdk
 ===============
 
 [个人博客-御风而行](http://blog.kunx.org)
@@ -30,3 +30,5 @@
 
 
 更多信息，请关注http://blog.kunx.org
+
+goods goods
